@@ -1,8 +1,0 @@
-<!DOCTYPE>
-<html>
-
-<head>
-    <title>test</title>
-</head>
-
-</html>
